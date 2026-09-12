@@ -248,3 +248,6 @@ This repository serves as the official landing page for JPCSP. The software is d
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://jpcsp.org)
 
 **Get the most recent version of JPCSP today!**
+
+---
+**Last updated:** 2026-09-12 08:25:23 UTC
